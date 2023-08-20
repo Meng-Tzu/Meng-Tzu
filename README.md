@@ -1,16 +1,13 @@
-### Hi there 👋
+# <center>Hi, I'm Meng-Tzu 👋</center>
 
-<!--
-**Meng-Tzu/Meng-Tzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤗 About me
 
-Here are some ideas to get you started:
+- A self-motivated backend engineer dedicated to acquiring new knowledge and skills in the software field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My latest project 'GoDating': https://mengtzu.site/
+
+- 📫Contact me
+
+  - Email: mengtzu07@gmail.com
+
+  - LinkedIn: https://linkedin.com/in/meng-tzu-tsai
